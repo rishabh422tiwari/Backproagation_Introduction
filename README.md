@@ -2,13 +2,13 @@
 
 **This is the documentation of Intro to neural networks & backpropagation lecture i had gone through by *Anjrej Karpathy***
 
-Develop basic intuition behind the backpropagation, while learning you will have implemented the _MICROGRAD_ framework developed by anjrej.
+Develop basic intuition behind the backpropagation, while learning you will be implementing the _MICROGRAD_ framework developed by anjrej.
 
 Things covered in the whole lecture :
 
 1) what is Forward pass ?
 2) what is backward pass ?
-3) wwhat are gradients ?
+3) what are gradients ?
 4) Implementing tanh non-linearity ( Activation Function )
 5) what is Backpropagation ?
 6) what is loss function ?
