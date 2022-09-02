@@ -2,7 +2,7 @@
 
 **This is the documentation of Intro to neural networks & backpropagation lecture i had gone through by *Anjrej Karpathy***
 
-Covered basic intuition behind the backpropagation, while learning you will have implemented the _MICROGRAD_ framework developed by anjrej.
+Develop basic intuition behind the backpropagation, while learning you will have implemented the _MICROGRAD_ framework developed by anjrej.
 
 Things covered in the whole lecture :
 
