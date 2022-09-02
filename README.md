@@ -13,3 +13,5 @@ Things covered in the whole lecture :
 5) what is Backpropagation ?
 6) what is loss function ?
 
+The spelled-out intro to neural networks and backpropagation: building micrograd : https://www.youtube.com/watch?v=VMj-3S1tku0&t=7232s
+
