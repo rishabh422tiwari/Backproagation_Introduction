@@ -1,4 +1,15 @@
 # Backproagation_Introduction
 
-**This is the documentation of backpropagation lecture i had gone through by *Anjrej Karpathy***
+**This is the documentation of Intro to neural networks & backpropagation lecture i had gone through by *Anjrej Karpathy***
+
+Covered basic intuition behind the backpropagation, while learning you will have implemented the _MICROGRAD_ framework developed by anjrej.
+
+Things covered in the whole lecture :
+
+1) what is Forward pass ?
+2) what is backward pass ?
+3) wwhat are gradients ?
+4) Implementing tanh non-linearity ( Activation Function )
+5) what is Backpropagation ?
+6) what is loss function ?
 
