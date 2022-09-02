@@ -1,4 +1,4 @@
-# Backproagation_Introduction
+# Backproagation Introduction
 
 **This is the documentation of Intro to neural networks & backpropagation lecture i had gone through by *Anjrej Karpathy***
 
