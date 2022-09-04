@@ -12,6 +12,7 @@ Things covered in the whole lecture :
 4) Implementing tanh non-linearity ( Activation Function )
 5) what is Backpropagation ?
 6) what is loss function ?
+7) what is gradient descent ?
 
 The spelled-out intro to neural networks and backpropagation: building micrograd : https://www.youtube.com/watch?v=VMj-3S1tku0&t=7232s
 
